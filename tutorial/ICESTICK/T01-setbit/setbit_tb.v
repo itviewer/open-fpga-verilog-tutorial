@@ -5,8 +5,8 @@
 //-----------------------------------------------------------------------------
 //-- Para la simulacion del componente es necesario hacer un banco de pruebas
 //-- que coloque el componente, asigne valor a las entradas y compruebe las
-//-- salidas. En el caso del compoente setbit, es muy sencillo. Solo tiene 
-//-- una salida, así que colocamos un cable a su salida y comprobamos que 
+//-- salidas. En el caso del compoente setbit, es muy sencillo. Solo tiene
+//-- una salida, así que colocamos un cable a su salida y comprobamos que
 //-- efectivamente se encuentra a valor 1
 //-----------------------------------------------------------------------------
 
@@ -48,5 +48,3 @@ end
 
 
 endmodule
-
-

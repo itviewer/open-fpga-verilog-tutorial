@@ -1,28 +1,10 @@
-## Descripción
-Componente "hola mundo" con un pin de salida que siempre está a '1'.
-Al cargarlo en la iCEstick se enciende el led D1
+# 说明
 
-## Simulación
+这是一个最简单的电路,创建一条线,并连接到逻辑电平 "1" ,这样当我们将其和LED连接时,便可以打开或关闭LED．
+![](images/setbit-1.png)
 
-Para realizar la simulacion entrar en el directorio y ejecutar:
+# 硬件描述
 
-$ make sim
+# FPGA综合
 
-Automaticamente se invocará al icarus verilog para hacer la compilacion / simulación y al gtkwave para ver el resultado de la simulacion gráficamente
-
-## Síntesis
-
-Para implementar el diseño en la FPGA ejecutamos el comando:
-
-$ make sint
-
-Se nos genera el fichero setbit.bin que contiene la conguración de la FPGA para que se nos implemente nuestro circuito digital.
-
-Lo descargamos en la fpga mediante el comando:
-
-sudo iceprog setbit.bin
-
-
-
-
-
+# 仿真

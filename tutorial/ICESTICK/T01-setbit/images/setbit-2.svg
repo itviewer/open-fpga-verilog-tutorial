@@ -14,9 +14,9 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="setbit-2.svg"
-   inkscape:export-filename="/home/dstanford/workspace/git/open-fpga-verilog-tutorial/tutorial/ICESTICK/T01-setbit/images/setbit-2.png"
+   inkscape:export-filename="/home/itviewer/open-fpga-verilog-tutorial/tutorial/ICESTICK/T01-setbit/images/setbit-2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -58,16 +58,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70750845"
-     inkscape:cx="358.62634"
-     inkscape:cy="933.90072"
+     inkscape:zoom="1.4150169"
+     inkscape:cx="110.47202"
+     inkscape:cy="886.09521"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-center="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
-     inkscape:window-x="65"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
@@ -129,16 +129,16 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <text
-         sodipodi:linespacing="125%"
          id="text3336"
          y="161.89281"
          x="537.39203"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan4162"
            y="161.89281"
            x="537.39203"
-           sodipodi:role="line">setbit</tspan></text>
+           sodipodi:role="line"
+           style="font-size:15px;line-height:1.25">setbit</tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-opacity:1"
          y="144.99377"
@@ -147,13 +147,12 @@
          width="116.15859"
          id="rect3340" />
       <text
-         sodipodi:linespacing="125%"
          id="text4136"
          y="213.98212"
          x="582.85754"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-size:15px"
+           style="font-size:15px;line-height:1.25"
            y="213.98212"
            x="582.85754"
            id="tspan4138"
@@ -170,13 +169,12 @@
          id="path4142"
          style="fill:#ffffff;stroke:#000000;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text4136-7"
          y="227.80653"
          x="503.19037"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-size:15px"
+           style="font-size:15px;line-height:1.25"
            y="227.80653"
            x="503.19037"
            id="tspan4138-0"
@@ -184,32 +182,30 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="83.192596"
        y="76.181938"
        id="text3336-1"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="83.192596"
          y="76.181938"
          id="tspan4162-7"
-         style="text-align:center;text-anchor:middle">FPGA</tspan></text>
+         style="font-size:15px;line-height:1.25;text-align:center;text-anchor:middle">FPGA</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="385.07425"
        y="137.9193"
        id="text3336-1-5"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="385.07425"
          y="137.9193"
          id="tspan4162-7-2"
-         style="font-size:10px;text-align:center;text-anchor:middle">95</tspan></text>
+         style="font-size:10px;line-height:1.25;text-align:center;text-anchor:middle">95</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.76267004;stroke-opacity:1"
        id="rect4268-2"
@@ -221,18 +217,17 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="385.07425"
        y="159.36346"
        id="text3336-1-5-6"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="385.07425"
          y="159.36346"
          id="tspan4162-7-2-8"
-         style="font-size:10px;text-align:center;text-anchor:middle">96</tspan></text>
+         style="font-size:10px;line-height:1.25;text-align:center;text-anchor:middle">96</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.76267004;stroke-opacity:1"
        id="rect4268-2-1"
@@ -244,18 +239,17 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="385.07425"
        y="182.9169"
        id="text3336-1-5-6-1"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="385.07425"
          y="182.9169"
          id="tspan4162-7-2-8-0"
-         style="font-size:10px;text-align:center;text-anchor:middle">97</tspan></text>
+         style="font-size:10px;line-height:1.25;text-align:center;text-anchor:middle">97</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.76267004;stroke-opacity:1"
        id="rect4268-2-1-5"
@@ -267,18 +261,17 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="385.07425"
        y="205.41571"
        id="text3336-1-5-6-1-7"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="385.07425"
          y="205.41571"
          id="tspan4162-7-2-8-0-7"
-         style="font-size:10px;text-align:center;text-anchor:middle">98</tspan></text>
+         style="font-size:10px;line-height:1.25;text-align:center;text-anchor:middle">98</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.76267004;stroke-opacity:1"
        id="rect4268-2-1-5-0"
@@ -290,18 +283,17 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="385.07425"
        y="228.26605"
        id="text3336-1-5-6-1-7-6"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="385.07425"
          y="228.26605"
          id="tspan4162-7-2-8-0-7-0"
-         style="font-size:10px;text-align:center;text-anchor:middle">99</tspan></text>
+         style="font-size:10px;line-height:1.25;text-align:center;text-anchor:middle">99</tspan></text>
     <circle
        style="fill:#000000;stroke:#000000;stroke-width:0.59686756;stroke-opacity:1"
        id="path4354"
@@ -352,39 +344,35 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="398.89542"
        y="120.38416"
        id="text3336-1-55"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="398.89542"
          y="120.38416"
          id="tspan4162-7-8"
-         style="text-align:start;text-anchor:start">Pines de la FPGA</tspan></text>
+         style="font-size:15px;line-height:1.25;text-align:start;text-anchor:start">FPGA管脚</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="213.73863"
-       y="128.50505"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="218.37639"
+       y="125.19237"
        id="text4425"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="213.73863"
-         y="128.50505"
-         id="tspan4429">Mapeo entre los pines de</tspan><tspan
+         x="218.37639"
+         y="125.19237"
+         id="tspan4435"
+         style="font-size:12.5px;line-height:1.25">将设计的模块管脚和FPGA</tspan><tspan
          sodipodi:role="line"
-         x="213.73863"
-         y="141.00505"
-         id="tspan4433">nuestros componentes y los</tspan><tspan
-         sodipodi:role="line"
-         x="213.73863"
-         y="153.50505"
-         id="tspan4435">de la FPGA </tspan></text>
+         x="218.37639"
+         y="140.81737"
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan96">管脚进行映射 </tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
        d="m 283.34432,154.51929 c 0,0 20.45534,2.26232 31.63894,23.20189 8.7861,16.45062 6.32779,35.85747 6.32779,35.85747"
@@ -395,17 +383,17 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="433.41403"
-       y="174.3855"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="447.3273"
+       y="181.01086"
        id="text4425-2"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="433.41403"
-         y="174.3855"
-         id="tspan4435-5">Fuera de la FPGA </tspan></text>
+         x="447.3273"
+         y="181.01086"
+         id="tspan4435-5"
+         style="font-size:10px;line-height:1.25">FPGA外部 </tspan></text>
     <g
        id="g4757"
        transform="translate(-11.993187,-21.487794)"
@@ -425,17 +413,17 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="439.60016"
        y="202.38568"
        id="text4425-2-5"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="439.60016"
          y="202.38568"
-         id="tspan4435-5-2">LED</tspan></text>
+         id="tspan4435-5-2"
+         style="font-size:10px;line-height:1.25">LED</tspan></text>
     <g
        id="g4878"
        transform="translate(3.2910238,-4.5277581)"
@@ -548,52 +536,53 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="398.76852"
        y="140.65071"
        id="text3336-1-55-3"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="398.76852"
          y="140.65071"
          id="tspan4162-7-8-6"
-         style="text-align:start;text-anchor:start">FPGA pins</tspan></text>
+         style="font-size:15px;line-height:1.25;text-align:start;text-anchor:start">FPGA pins</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="434.58585"
        y="263.16684"
        id="text4425-2-7"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="434.58585"
          y="263.16684"
-         id="tspan4435-5-5">Outside the FPGA</tspan></text>
+         id="tspan4435-5-5"
+         style="font-size:10px;line-height:1.25">Outside the FPGA</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="224.99268"
        y="328.40442"
        id="text4425-3"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="224.99268"
          y="328.40442"
-         id="tspan4435-2">Mapping between the pins of</tspan><tspan
+         id="tspan4435-2"
+         style="font-size:10px;line-height:1.25">Mapping between the pins of</tspan><tspan
          sodipodi:role="line"
          x="224.99268"
          y="340.90442"
-         id="tspan3626">our component, and those </tspan><tspan
+         id="tspan3626"
+         style="font-size:10px;line-height:1.25">our component, and those </tspan><tspan
          sodipodi:role="line"
          x="224.99268"
          y="353.40442"
-         id="tspan3628">of the FPGA</tspan></text>
+         id="tspan3628"
+         style="font-size:10px;line-height:1.25">of the FPGA</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.18056989px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-9)"
        d="m 284.82094,319.09548 c 0,0 19.44329,-3.31723 30.07355,-34.02076 8.35139,-24.12142 6.01471,-52.57755 6.01471,-52.57755"

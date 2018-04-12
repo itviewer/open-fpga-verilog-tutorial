@@ -1,3 +1,1 @@
-Bitstreams ya generados listos para cargar en la fpga
-(para hacer pruebas sin tener que sintetizar)
-
+已经生成的FPGA位流配置文件（无需综合测试）
